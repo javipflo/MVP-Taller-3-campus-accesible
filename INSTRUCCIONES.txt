@@ -1,0 +1,15 @@
+Proyecto Campus Accesible
+
+Para ejecutar:
+
+1. Instalar Python
+2. Abrir PowerShell en la carpeta del proyecto
+3. Ejecutar:
+
+pip install streamlit pandas folium streamlit-folium gtts openpyxl
+
+4. Ejecutar:
+
+streamlit run app.py
+
+Autor: JAVIERA FLORES
