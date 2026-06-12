@@ -1,0 +1,13 @@
+nombre,tipo,edificio,descripcion,lat,lon,estado,tiene_ascensor
+Entrada Alessandri,Entrada,Campus,Acceso principal,-33.46628,-70.598224,Operativo,No
+Biblioteca,Servicio,Biblioteca,Biblioteca Central,-33.465833,-70.597656,Operativo,Sí
+Gimnasio,Servicio,Gimnasio,Gimnasio UTEM,-33.46645,-70.59788,Operativo,No
+Cancha Multideportiva,Servicio,Multicancha,Cancha de deportes,-33.465714,-70.596769,Operativo,No
+M1,Edificio,M1,Aulas y Laboratorios,-33.466173,-70.598008,Operativo,No
+M2,Edificio,M2,Casino y aulas,-33.46618,-70.597722,Operativo,No
+M3,Edificio,M3,Aulas,-33.46618,-70.597424,Operativo,No
+M8,Edificio,M8,Carreras Mecánica y Química,-33.46645,-70.596889,Operativo,Sí
+M5,Edificio,M5,Matemática y Química,-33.4667,-70.596889,Operativo,No
+M6,Edificio,M6,Electricidad y Mecánica,-33.466123,-70.596607,Operativo,No
+M7,Edificio,M7,Industria,-33.465948,-70.597215,Operativo,Sí
+SESAES,Servicio,SESAES,Enfermería y Apoyo Estudiantil,-33.466350,-70.597950,Operativo,Sí

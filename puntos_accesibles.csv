@@ -1,0 +1,51 @@
+nombre,tipo,edificio,descripcion,lat,lon,estado
+Zona de Ajedrez,Zona Tranquila,Campus,Espacio de descanso y baja sobrecarga visual,-33.466135,-70.597529,Operativo
+M1-201,Sala,M1,Piso 2 - Sur,-33.46625,-70.598008,Operativo
+M1-202,Sala,M1,Piso 2 - Centro-Sur,-33.46618,-70.598008,Operativo
+M1-203,Sala,M1,Piso 2 - Centro-Norte,-33.46611,-70.598008,Operativo
+M1-204,Sala,M1,Piso 2 - Norte,-33.46605,-70.598008,Operativo
+M1-301,Sala,M1,Piso 3 - Sur,-33.46625,-70.598008,Operativo
+M1-302,Sala,M1,Piso 3 - Centro-Sur,-33.46618,-70.598008,Operativo
+M1-303,Sala,M1,Piso 3 - Centro-Norte,-33.46611,-70.598008,Operativo
+M1-304,Sala,M1,Piso 3 - Norte,-33.46605,-70.598008,Operativo
+M2-201,Sala,M2,Piso 2 - Sur,-33.46625,-70.597722,Operativo
+M2-202,Sala,M2,Piso 2 - Centro-Sur,-33.46618,-70.597722,Operativo
+M2-203,Sala,M2,Piso 2 - Centro-Norte,-33.46611,-70.597722,Operativo
+M2-204,Sala,M2,Piso 2 - Norte,-33.46605,-70.597722,Operativo
+M2-301,Sala,M2,Piso 3 - Sur,-33.46625,-70.597722,Operativo
+M2-302,Sala,M2,Piso 3 - Centro-Sur,-33.46618,-70.597722,Operativo
+M2-303,Sala,M2,Piso 3 - Centro-Norte,-33.46611,-70.597722,Operativo
+M2-304,Sala,M2,Piso 3 - Norte,-33.46605,-70.597722,Operativo
+M3-201,Sala,M3,Piso 2 - Sur,-33.46625,-70.597424,Operativo
+M3-202,Sala,M3,Piso 2 - Centro-Sur,-33.46618,-70.597424,Operativo
+M3-203,Sala,M3,Piso 2 - Centro-Norte,-33.46611,-70.597424,Operativo
+M3-204,Sala,M3,Piso 2 - Norte,-33.46605,-70.597424,Operativo
+M3-301,Sala,M3,Piso 3 - Sur,-33.46625,-70.597424,Operativo
+M3-302,Sala,M3,Piso 3 - Centro-Sur,-33.46618,-70.597424,Operativo
+M3-303,Sala,M3,Piso 3 - Centro-Norte,-33.46611,-70.597424,Operativo
+M3-304,Sala,M3,Piso 3 - Norte,-33.46605,-70.597424,Operativo
+Rampa entre M1 y M2,Rampa,Campus / Punto libre,,-33.466286627625244,-70.59786558151247,Disponible
+Rampa hacia biblioteca,Rampa,Campus / Punto libre,,-33.46593757274637,-70.5978548526764,Disponible
+Rampa M7,Rampa,Campus / Punto libre,,-33.46598679851955,-70.59733450412752,Disponible
+Rampa ,Rampa,Campus / Punto libre,,-33.46629334020529,-70.59732913970949,Disponible
+Rampa ,Rampa,Campus / Punto libre,,-33.46633585320019,-70.59699654579164,Disponible
+Rampa ,Rampa,Campus / Punto libre,,-33.466496954886374,-70.59702873229982,Disponible
+Rampa ,Rampa,Campus / Punto libre,,-33.46671175666882,-70.59677660465242,Disponible
+Rampas de M8,Rampa,M8,,-33.46634032825108,-70.59688389301301,Disponible
+Zona tranquila,Otro servicio,Campus / Punto libre,,-33.466179226273766,-70.59705555438997,Disponible
+Zona tranquila,Otro servicio,Campus / Punto libre,,-33.46614790085452,-70.59757322072984,Disponible
+Zona tranquila,Otro servicio,Campus / Punto libre,,-33.46616356356556,-70.59786289930345,Disponible
+Zona tranquila,Otro servicio,Campus / Punto libre,,-33.46642535417393,-70.59728354215623,Disponible
+Zona tranquila,Otro servicio,Campus / Punto libre,,-33.466275439990675,-70.59642791748048,Disponible
+Baño accesible M3,Baño accesible,M3,,-33.466275439990675,-70.59745252132417,Disponible
+Baño accesible M6,Baño accesible,M6,,-33.46629334020529,-70.59660762548448,Disponible
+Ascensor,Ascensor,Biblioteca,,-33.465850308807006,-70.5976563692093,Disponible
+Ascensor,Ascensor,M7,,-33.46592862260279,-70.5971333384514,Disponible
+Ascensor,Ascensor,M6,,-33.46616356356556,-70.59661298990251,Fuera de servicio
+Escalera,Escalera,Campus / Punto libre,,-33.4662776775177,-70.59807211160661,Disponible
+Escalera,Escalera,Campus / Punto libre,,-33.466286627625244,-70.59772610664369,Disponible
+Escalera,Escalera,Campus / Punto libre,,-33.46626872740924,-70.59739083051683,Disponible
+Escalera,Escalera,Campus / Punto libre,,-33.465959948101286,-70.59716552495958,Disponible
+Escalera,Escalera,Campus / Punto libre,,-33.46619936403731,-70.59668540954591,Disponible
+Escalera,Escalera,Campus / Punto libre,,-33.46661554343625,-70.59666931629182,Disponible
+Escalera,Escalera,Campus / Punto libre,,-33.465841358654416,-70.59759199619295,Disponible
