@@ -1,0 +1,22 @@
+Campus Accesible - MVP
+
+Desarrollado en:
+- Python
+- Streamlit
+- Folium
+- Pandas
+
+Archivos principales:
+- app.py → aplicación principal
+- edificios.csv → edificios del campus
+- destinos.csv → destinos disponibles
+- puntos_accesibles.csv → información de accesibilidad
+- rutas_guardadas.json → rutas personalizadas
+
+Instalación:
+
+pip install streamlit pandas folium streamlit-folium gtts openpyxl
+
+Ejecución:
+
+streamlit run app.py
